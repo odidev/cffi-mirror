@@ -1,8 +1,8 @@
 
+language: python
 arch: arm64
 os: linux
 #cache: pip
-#language: python
 
 matrix:
   include:
