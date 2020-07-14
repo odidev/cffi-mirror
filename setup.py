@@ -184,7 +184,7 @@ if __name__ == '__main__':
     cpython = ('_cffi_backend' not in sys.builtin_module_names)
 
     setup(
-        name='cffi',
+        name='cffi-demo',
         description='Foreign Function Interface for Python calling C code.',
         long_description="""
 CFFI
